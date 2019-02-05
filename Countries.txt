@@ -1,0 +1,11 @@
+canada
+usa
+mexico
+africa
+australia
+brazil
+cuba
+russia
+germany
+italy
+ireland
